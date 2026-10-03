@@ -1,5 +1,6 @@
 # Support-Ticket-Intelligence-System
-"""Support-Ticket-Intelligence-System/
+```text
+Support-Ticket-Intelligence-System/
 │
 ├── Customer-Support-Ticket-Priority-Prediction-Using-Agentforce
 ├── README.md
@@ -32,5 +33,4 @@
 │   └── Testing.png
 │
 └── demo/
-    └── Demo_Video_Link.txt"""
-  
+    └── Demo_Video_Link.txt
